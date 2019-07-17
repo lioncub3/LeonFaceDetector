@@ -1,0 +1,13 @@
+C:\Users\lioncub3\Desktop\FaceDetector\LeonFaceDetector\bin\Debug\LeonFaceDetector.exe.config
+C:\Users\lioncub3\Desktop\FaceDetector\LeonFaceDetector\bin\Debug\LeonFaceDetector.exe
+C:\Users\lioncub3\Desktop\FaceDetector\LeonFaceDetector\bin\Debug\LeonFaceDetector.pdb
+C:\Users\lioncub3\Desktop\FaceDetector\LeonFaceDetector\obj\Debug\LeonFaceDetector.csprojAssemblyReference.cache
+C:\Users\lioncub3\Desktop\FaceDetector\LeonFaceDetector\obj\Debug\LeonFaceDetector.Form1.resources
+C:\Users\lioncub3\Desktop\FaceDetector\LeonFaceDetector\obj\Debug\LeonFaceDetector.Properties.Resources.resources
+C:\Users\lioncub3\Desktop\FaceDetector\LeonFaceDetector\obj\Debug\LeonFaceDetector.csproj.GenerateResource.cache
+C:\Users\lioncub3\Desktop\FaceDetector\LeonFaceDetector\obj\Debug\LeonFaceDetector.csproj.CoreCompileInputs.cache
+C:\Users\lioncub3\Desktop\FaceDetector\LeonFaceDetector\obj\Debug\LeonFaceDetector.exe
+C:\Users\lioncub3\Desktop\FaceDetector\LeonFaceDetector\obj\Debug\LeonFaceDetector.pdb
+C:\Users\lioncub3\Desktop\FaceDetector\LeonFaceDetector\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lioncub3\Desktop\FaceDetector\LeonFaceDetector\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lioncub3\Desktop\FaceDetector\LeonFaceDetector\obj\Debug\LeonFaceDetector.csproj.CopyComplete
